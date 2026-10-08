@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "client": "desktop-1.0.0",
+  "desktop_only": true,
+  "ui_entry": "Retro.qml",
+  "os": "Windows 10/11 x64",
+  "python": "3.14.4",
+  "runtime_downloads": false,
+  "android_included": false,
+  "legacy_ui_included": false,
+  "window_title": "pipeRun 1.0.0 · 测试版",
+  "exe_sha256": "51f13258de3277b05f2021bfa0ea026608a808f7f278169bbffdbf6a14d6f0f2",
+  "offline_selfcheck_passed": null,
+  "clean_windows_vm_tested": false,
+  "live_submit_tested": false
+}

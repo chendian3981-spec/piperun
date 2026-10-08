@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "status": "not_run",
+  "ok": null,
+  "scope": "Build/link only; no frozen runtime or real business acceptance.",
+  "real_requests": 0,
+  "system_proxy_writes": 0,
+  "certificate_installs": 0
+}
