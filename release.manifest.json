@@ -1,0 +1,15 @@
+{
+  "license_id": "LRL-1.0",
+  "build_id": "LRL1.0-0.3.3-diagnostic-20261007-2f34fb00",
+  "version": "0.3.3-diagnostic",
+  "upstream": "https://github.com/dan-cun/lepao3",
+  "author": "dan-cun",
+  "contact_qq": "1224145544",
+  "generated": "2026-10-07 18:27:04",
+  "sha256": {
+    "LICENSE": "2f34fb00c61f065548c0530431dfb5a5e5bfc14a36e5f2793102bc1ac138bc62",
+    "NOTICE": "3eb6982e3f2b56c049f585f657a9cb75b8bdd8ab6c2dc139ad9d83ee8cfb9547",
+    "DISCLAIMER.md": "8fa6e70e7c59637339299bd21ef2427a7fb6357da29d55b480461c4e00e2c867"
+  },
+  "marker": "# --- lepao-research-notice v1 (do not remove; see LICENSE) ---"
+}

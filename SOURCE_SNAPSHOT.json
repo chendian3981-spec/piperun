@@ -1,0 +1,19 @@
+{
+  "upstream": "dan-cun/lepao3",
+  "captured": "2026-10-07",
+  "sha256": {
+    "data/真实轨迹_035明文.json": "1f7ceda5922a7af0da6667a979dfe19b3e43816e13dcb170f15dc8a8e4342335",
+    "lepao/__init__.py": "3d651d13dcd0bcd10fe5a401650f49f4f309f6ddedd3c6c8a1daa87b72c702d2",
+    "lepao/accounts.py": "61fce00bdc00b3186f00f5f0ea0dfcb1acd35a14fd10d02d36c689a140e14891",
+    "lepao/auth.py": "381285d730bc45cba55a1b5001f710805ea3038217d56c80161e459b779889f8",
+    "lepao/crypto.py": "51bb6f363e2a4cb18ec21f35f779fa3a6826222dc6b31f5393049783eda6da6f",
+    "lepao/license_guard.py": "6d57ece21130f982142186da54a8a8120ae9512537513f0ecaf0848b69144f9f",
+    "lepao/pipeline.py": "941c16dfb5e6c54548f1407b3305d000ed7b5105bd6f3002eaa6516a286665a7",
+    "lepao/record.py": "5a2376380d4d042acd6307f296fa373361c432d92447387146fd46f10b9be530",
+    "lepao/state.py": "f4757d398e1204e1e0a0f274361c6bd860c65bf75d4545e12b2dd92843a00b47",
+    "lepao/track.py": "7481b957254f89bf8a3b34cea0c5952c0d242b3202e9dea61cf89a027aa455da",
+    "lepao/transport.py": "4298c8b33fb0b2dfbcc1ee91b70b1db0220abd54b489dcd8923252c22581ddb1",
+    "lepao/v3api.py": "232378825e2a57ea4ea98e8e2578da704c385407bde725031a16f6ecd0480a1f"
+  },
+  "selection": "Desktop dependency closure only. Retained upstream files are byte-for-byte unchanged from the original snapshot."
+}
