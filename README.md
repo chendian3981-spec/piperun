@@ -6,7 +6,7 @@
 使用、修改、再发布须保留 [LICENSE](LICENSE)、[NOTICE](NOTICE)、[免责声明](DISCLAIMER.md) 和源文件声明。
 
 ## 下载使用
-将步骤简化到三岁小孩都能完成的程序，有问题和不理解欢迎iuuse
+将步骤简化到三岁小孩都能完成的程序，觉得好用感谢star，有问题和不理解欢迎iuuse。
 
 从 Releases 下载 `pipeRun.exe`。
 运行环境、界面、字体均内置，不需要 Python、Java、Node、WebView2 或代理软件，不在线下载依赖。
